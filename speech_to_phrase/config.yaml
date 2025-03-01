@@ -22,4 +22,3 @@ schema:
 ports:
   "10300/tcp": null
 homeassistant: 2023.11.0
-image: homeassistant/{arch}-addon-speech-to-phrase
